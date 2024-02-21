@@ -1,5 +1,7 @@
 # duck-electron-app
 
+## markdown笔记
+
 ## Project setup
 ```
 npm install
